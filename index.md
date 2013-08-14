@@ -1,5 +1,5 @@
 parameter
-propertie
+property
 attribute
 argument
 member
@@ -18,19 +18,19 @@ message-passing
 array
 vector
 list
-maps
-templates
-macros
-classes
-prototypes
-namespaces
+map
+template
+macro
+class
+prototype
+namespace
 domain-specific languages
 null
 nil
 none
 undefined
 empty
-closures
+closure
 scoping
 global
 local
@@ -138,14 +138,14 @@ tuple
 mutable
 runtime
 compile-time
-errors
-warnings
-alerts
+error
+warning
+alert
 illegal
 segmentation
-faults
+fault
 bytecode
-stacks
+stack
 overflow
 underflow
 type
@@ -161,4 +161,89 @@ decrement
 associativity
 iterator
 exception
-decorators
+decorator
+coercion
+cast
+static cast
+dynamic cast
+reinterpret cast
+console
+log
+internationalization
+i18n
+localization
+l10n
+wrapper
+adapter
+reserved
+keyword
+include
+import
+deprecated
+obsoleted
+header
+smart
+magic
+fork
+coprocessing
+multiprocessing
+multithreading
+thread
+process
+cache
+module
+library
+framework
+service
+package
+event loop
+event
+main
+concurrency
+callback
+handler
+slot
+outlet
+broadcast
+listener
+publish
+subscribe
+signal
+pause
+wait
+sleep
+len
+length
+size
+count
+printf
+stringify
+prettyprint
+serialize
+deserialize
+encode
+decode
+encrypt
+decrypt
+marshall
+string
+join
+split
+implode
+explode
+delimiter
+lint
+static analysis
+dynamic programming
+factory
+generator
+resolution
+ternary
+standard input
+standard output
+standard error
+shall
+assert
+mock
+stub
+copy
